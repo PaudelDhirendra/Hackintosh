@@ -1,1 +1,2 @@
 Refined SSDTs
+Creating Refined SSDT. once for PCI list from lspic output of linux, one for Device list, missing ones, one for renames applied in config etc..
